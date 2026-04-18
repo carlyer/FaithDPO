@@ -14,6 +14,8 @@ RAG systems often suffer from hallucinations where the language model generates 
 
 ## Architecture
 
+![FaithDPO Pipeline Architecture](image/FaithDPO_pipeline(2).png)
+
 ### Two Sampling Strategies
 
 #### 1. SentenceExtract (Sentence-Level Exact Extraction)
