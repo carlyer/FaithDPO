@@ -164,16 +164,6 @@ FaithDPO/
 └── README.md
 ```
 
-## Citation
-
-```bibtex
-@article{faithdpo,
-  title={FaithDPO: Faithful Extraction for RAG Hallucination Reduction via Direct Preference Optimization},
-  author={},
-  year={2024}
-}
-```
-
 ## License
 
 MIT License
